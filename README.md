@@ -23,9 +23,9 @@ Review Apps are created by the CI/CD when new branches are pushed to Github. Rev
 
 Two pull requests have already been created in homage to 1960's rock bands:
 
-[Jethro Tull](https://github.com/mooperd/equal-experts/pull/3)
+[Jethro Tull](https://github.com/otter-microservices/k8s-codefresh-demo/pull/1)
 
-[Led Zeppelin](https://github.com/mooperd/equal-experts/pull/4)
+[Led Zeppelin](https://github.com/otter-microservices/k8s-codefresh-demo/pull/2)
 
 The Review Apps for these PRs can be inspected as described in the section above.
 
